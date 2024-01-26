@@ -1,0 +1,9 @@
+embedding_size: 128
+epochs: 1000
+batch_size: 2048
+lr: !!float 5e-4
+beta: !!float 1e-4
+weight_decay: !!float 1e-4
+topk: 20
+seed: 2020
+negative: 1

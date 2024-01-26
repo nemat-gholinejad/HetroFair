@@ -1,0 +1,112 @@
+0:Sets & Kits
+1:Cleansers
+2:Lotions
+3:Fluids
+4:Flattening Irons
+5:Hot-Air Brushes
+6:Conditioners
+7:Hair & Scalp Treatments
+8:Makeup Mirrors
+9:Makeup Sets
+10:Combinations
+11:Brushes & Applicators
+12:Chemical Hair Dyes
+13:Rollers & Pens
+14:Shampoos
+15:Curling Irons
+16:Cloths & Towelettes
+17:Body Scrubs
+18:Shampoo & Conditioner Sets
+19:Night Creams
+20:Serums
+21:Creams & Moisturizers
+22:Hair Sprays
+23:Microdermabrasion
+24:Face
+25:Scrubs
+26:Hair Dryers
+27:Body Washes
+28:Day Creams
+29:Sunscreens
+30:Mousses & Foams
+31:Styling Products
+32:Fake Eyelashes & Adhesives
+33:Creams
+34:Oils
+35:Washes
+36:Minerals & Salts
+37:Curlers
+38:Oils & Serums
+39:Sports
+40:Eye Shadow
+41:Hair Care
+42:Creams, Gels & Lotions
+43:Brushes
+44:Masks
+45:Hair Styling Serums
+46:Toners & Astringents
+47:Powder
+48:Pomades & Waxes
+49:Skin Protection
+50:After Sun
+51:Mascara
+52:Foundation Primers
+53:Lip Glosses
+54:Hair Rollers
+55:Highlights
+56:Foot Rasps
+57:Nail Polish
+58:Toiletry Bags
+59:Nail Treatments
+60:Bath Mitts & Cloths
+61:Shower Caps
+62:Salicylic Acid
+63:Gels
+64:Eyes
+65:Treatments & Masks
+66:Styling Tools
+67:Pore Cleansing Strips
+68:Color Refreshers
+69:Soaps
+70:Complexes
+71:Loofahs, Sponges & Poufs
+72:Clippers & Trimmers
+73:Hair Cutting Kits
+74:Eyeliner
+75:Hand Soaps
+76:Hand Creams & Lotions
+77:Exfoliators
+78:Nail Files & Buffers
+79:Eye Masks
+80:Cosmetic Bags
+81:Blush
+82:Moisturizing Gloves
+83:Hair Regrowth Treatments
+84:Cotton Swabs
+85:Train Cases
+86:Skin Care
+87:Tinted Moisturizers
+88:Shower Mirrors
+89:Face Cleansing Brushes
+90:Cologne
+91:Puffiness Treatments
+92:Body Butter
+93:Dark Circle Treatments
+94:Clips
+95:Maternity
+96:Bars
+97:Fluids & Lotions
+98:Retinol
+99:Combs
+100:Nail Dryers
+101:Nail Art Equipment
+102:Foundation
+103:Lipstick
+104:Hair Extensions
+105:Nail Brushes
+106:Wigs
+107:Polishes
+108:Fillers
+109:Body Mud
+110:Growth Formula
+111:Body Souffles & Mousse

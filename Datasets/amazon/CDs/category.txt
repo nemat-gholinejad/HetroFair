@@ -1,0 +1,209 @@
+0:Metal
+1:Jazz Fusion
+2:Pop
+3:Alternative Metal
+4:Teen Pop
+5:Death Metal
+6:American Alternative
+7:Hardcore
+8:Vocal Pop
+9:Alternative Rock
+10:Emo
+11:Industrial
+12:Pop Metal
+13:Singer-Songwriters
+14:Southern Rock
+15:Garage Punk
+16:Celtic New Age
+17:Album-Oriented Rock (AOR)
+18:Smooth Jazz
+19:Ambient Pop
+20:Contemporary Folk
+21:Goth
+22:Alt Industrial
+23:Punk
+24:Contemporary Blues
+25:Dance & Electronic
+26:Folk
+27:Adult Contemporary
+28:Dance Pop
+29:Adult Alternative
+30:CDs & Vinyl
+31:British Invasion
+32:Big Beat
+33:Britpop
+34:Electronica
+35:Comedy & Spoken Word
+36:Classic Rock
+37:Jazz
+38:Latin Pop
+39:Country
+40:Vocal Jazz
+41:Today's Country
+42:Rock
+43:Thrash & Speed Metal
+44:House
+45:Trance
+46:Ambient
+47:Arena Rock
+48:Glam
+49:New Wave
+50:Meditation
+51:Sacred & Religious
+52:Electric Blues
+53:British Alternative
+54:Trip-Hop
+55:Pop & Contemporary
+56:Indie Rock
+57:World Dance
+58:Christmas
+59:Classical
+60:Holiday & Wedding
+61:Bebop
+62:Swedish Pop
+63:Progressive Rock
+64:Musicals
+65:Classic Vocalists
+66:Traditional Vocal Pop
+67:Cabaret
+68:Cool Jazz
+69:Comedic Music
+70:Punk-Pop
+71:Movie Soundtracks
+72:Broadway & Vocalists
+73:Gospel
+74:American Punk
+75:Neotraditional
+76:Punk Revival
+77:Blues
+78:Latin Hip-Hop
+79:Outlaw Country
+80:Cowboy
+81:Americana
+82:Hardcore & Punk
+83:Interviews
+84:Hard Rock
+85:Hard Rock & Metal
+86:Post Hardcore
+87:Traditional Folk
+88:Latin Jazz
+89:Classic Country
+90:Bluegrass
+91:Doo Wop
+92:Nashville Sound
+93:British Folk
+94:Psychedelic Rock
+95:Proto Punk
+96:Acoustic Blues
+97:Bubblegum
+98:Polkas
+99:Girl Groups
+100:Country Comedy
+101:Children's Music
+102:Post-Punk
+103:Soundtracks
+104:Disney
+105:Supergroups
+106:Movie Scores
+107:Jangle Pop
+108:Easy Listening
+109:Oldies
+110:Lullabies
+111:Spoken Word
+112:British Punk
+113:Electronic Pop
+114:Christian
+115:Disco
+116:Techno
+117:Pop Rap
+118:Blues Rock
+119:Jive Jazz
+120:Ballets
+121:Sing-A-Longs
+122:Concertos
+123:Traditional Blues
+124:Dream Pop
+125:British Metal
+126:Indie & Lo-Fi
+127:Variations
+128:New Wave & Post-Punk
+129:Chamber Pop
+130:Slide Guitar
+131:Chamber Music
+132:Avant Garde & Free Jazz
+133:Classic Big Band
+134:Dixieland
+135:Ska
+136:Tone Poems
+137:Symphonies
+138:Vocal Blues
+139:New Age
+140:Brazilian Jazz
+141:Rockabilly
+142:Gangsta & Hardcore
+143:Country & Bluegrass
+144:British & Celtic Folk
+145:Piano Blues
+146:Folk Rock
+147:Soft Rock
+148:Tributes
+149:Retro Swing
+150:Krautrock
+151:Industrial Dance
+152:Rap & Hip-Hop
+153:Baroque Pop
+154:Delta Blues
+155:Rock & Alternative
+156:Shock Comedy
+157:Texas Blues
+158:Urban Folk
+159:Jump Blues
+160:Reggae
+161:Jewish & Yiddish
+162:Shoegazing
+163:Freestyle
+164:Funk
+165:Riot Grrl
+166:Swing Jazz
+167:European Jazz
+168:Praise & Worship
+169:Marches
+170:R&B
+171:Goth & Industrial
+172:Euro Pop
+173:Old-Time Country
+174:IDM
+175:Poetry
+176:Soul-Jazz & Boogaloo
+177:Soul
+178:East Coast
+179:Lo-Fi
+180:Memphis Blues
+181:Motown
+182:Orchestral Jazz
+183:Acid Jazz
+184:Experimental Rap
+185:Traditional Pop
+186:Sewing
+187:Bakersfield Sound
+188:Progressive Metal
+189:Parts & Accessories
+190:Exterior Accessories
+191:Drum & Bass
+192:Dubstep
+193:French Pop
+194:Flamenco
+195:Irish Folk
+196:Instrumental
+197:Chicago Blues
+198:Urban & Contemporary
+199:Suites
+200:Jazz Jam Bands
+201:Turntablists
+202:Mali
+203:Southern Gospel
+204:Fragrance
+205:Boogie-Woogie
+206:Dance Hall
+207:Third Wave Ska
+208:Dub

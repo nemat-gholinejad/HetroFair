@@ -1,0 +1,2 @@
+torch==1.13.1
+torch_geometric==2.2.0

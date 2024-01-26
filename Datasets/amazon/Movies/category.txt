@@ -1,0 +1,77 @@
+0:Movies
+1:TV
+2:Movies & TV
+3:Children's Music
+4:Album-Oriented Rock (AOR)
+5:Disney
+6:Dance & Electronic
+7:Comedy & Spoken Word
+8:Rock
+9:Adult Contemporary
+10:Classical
+11:Proto Punk
+12:Dance Pop
+13:Pop
+14:Classic Country
+15:Electric Blues
+16:Soundtracks
+17:Movie Scores
+18:Classic Rock
+19:Vocal Pop
+20:Contemporary Folk
+21:Alternative Rock
+22:Comedic Music
+23:Jazz
+24:Britain
+25:World Music
+26:Contemporary Blues
+27:Musicals
+28:American Alternative
+29:Post-Punk
+30:Progressive Rock
+31:American Punk
+32:Vocal Jazz
+33:British Invasion
+34:Psychedelic Rock
+35:Christmas
+36:Metal
+37:Rockabilly
+38:Blues Rock
+39:Soft Rock
+40:Swing Jazz
+41:New Wave
+42:Funk
+43:Disco
+44:Bluegrass
+45:Soul
+46:Girl Groups
+47:Arena Rock
+48:Singer-Songwriters
+49:Swedish Pop
+50:Pop Rap
+51:Electronica
+52:Celtic New Age
+53:Adult Alternative
+54:Britpop
+55:Alternative Metal
+56:Thrash & Speed Metal
+57:Southern Rock
+58:Country
+59:Meditation
+60:Smooth Jazz
+61:Latin Pop
+62:British Metal
+63:Jazz Fusion
+64:Easy Listening
+65:Symphonies
+66:Pop & Contemporary
+67:Today's Country
+68:Chamber Pop
+69:Instructional
+70:Alt Industrial
+71:Jangle Pop
+72:Folk
+73:Blues
+74:France
+75:Neotraditional
+76:Blank Media
