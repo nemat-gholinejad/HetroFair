@@ -1,4 +1,4 @@
-This is the official implementation for our HetroFair paper:
+This is the official implementation for our <a href="https://arxiv.org/abs/2402.03365">HetroFair</a> paper:
 >Heterophily-Aware Fair Recommendation using Graph Convolutional Networks
 
 ## Requirements
